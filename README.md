@@ -3,9 +3,9 @@ Image Classification
 
 The Dataset: The Animals datasets consists of 3,000 images with 1,000images per dog, cat, and panda class, respectively. Each image is represented in the RGBcolor space. It is better to preprocess each image by resizing it to 32x32 pixels. Taking into account the three RGB channels, the resized image dimensions imply that each image in the dataset is represented by 32x32x3 = 3,072 integers.
 
-![alt text](C:/Dogs.png "Sample Dog Images")
-![alt text](C:/Cats.png "Sample Cat Images")
-![alt text](C:/Panda.png "Sample Panda Images")
+![alt text](Dogs.png "Sample Dog Images")
+![alt text](Cats.png "Sample Cat Images")
+![alt text](Panda.png "Sample Panda Images")
 
 
 Step 1:
