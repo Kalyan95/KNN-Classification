@@ -3,11 +3,9 @@ Image Classification
 
 The Dataset: The Animals datasets consists of 3,000 images with 1,000images per dog, cat, and panda class, respectively. Each image is represented in the RGBcolor space. It is better to preprocess each image by resizing it to 32x32 pixels. Taking into account the three RGB channels, the resized image dimensions imply that each image in the dataset is represented by 32x32x3 = 3,072 integers.
 
-![alt text](KNN-Classification/Dogs.png "Sample Dog Images")
-
-![alt text](KNN-Classification/Cats.png "Sample Cat Images")
-
-![alt text](KNN-Classification/Panda.png "Sample Panda Images")
+![Cats](https://user-images.githubusercontent.com/48844625/54872253-cbb36980-4d86-11e9-9c02-3166e2dbe38f.PNG)
+![Dogs](https://user-images.githubusercontent.com/48844625/54872254-cbb36980-4d86-11e9-8cb6-dfb8102020e1.PNG)
+![Pandas](https://user-images.githubusercontent.com/48844625/54872255-cc4c0000-4d86-11e9-9f89-75df3a7d524d.PNG)
 
 
 Step 1:
